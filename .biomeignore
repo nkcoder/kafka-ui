@@ -1,0 +1,16 @@
+# Build outputs
+.next/
+dist/
+coverage/
+
+# Dependencies
+node_modules/
+
+# TypeScript declaration files
+*.d.ts
+
+# Config files
+tailwind.config.ts
+vitest.config.mjs
+postcss.config.mjs
+next.config.js
